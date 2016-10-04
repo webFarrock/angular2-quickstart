@@ -24,6 +24,7 @@ body, input[text], button {
     background-color: #CFD8DC !important;
     color: white;
 }
+/*conflict comment*/
 .heroes {
     margin: 0 0 2em 0;
     list-style-type: none;
